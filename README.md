@@ -22,7 +22,7 @@ With a strong foundation in data analysis, statistics, and scientific computing 
 Now, I’m channeling that expertise into scalable data solutions for broader industries.
 
 ### 📫 Let's Connect
-
+- My website: [sophie3101.github.io](https://sophie3101.github.io/)
 - LinkedIn: [sophie-nguyen-19423986](https://www.linkedin.com/in/sophie-nguyen-19423986/)
 <!-- - Portfolio: [your-portfolio-site-if-any] -->
 - Email: [sophie.tnguyen.01@gmail.com](sophie.tnguyen.01@gmail.com)
